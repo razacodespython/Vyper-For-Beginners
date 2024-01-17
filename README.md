@@ -1,4 +1,4 @@
-# Vyper-For-Beginners
+# Vyper For Beginners
 ![vyper (1)](https://github.com/razacodespython/Vyper-For-Beginners/assets/76620622/02fec3f5-c442-4f63-8fa5-66e50b6d1652)
 
 ## Introduction
