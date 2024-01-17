@@ -12,4 +12,4 @@ Welcome to the Vyper Series for beginners. You will find a comprehensive overvie
 ➤ [Lesson 5 - Structs](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-5-Structs)  
 ➤ [Lesson 6 - If-Else & Assert](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-6-If-Else-Assert)  
 ➤ [Lesson 7 - For Loop](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-7-For-Loop)  
-➤ [Lesson 8 - Constants & Immutable](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-8-Constant-Immutable)  
+➤ [Lesson 8 - Constants & Immutable](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-8-Constants-Immutables)  
