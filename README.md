@@ -6,10 +6,10 @@ Welcome to the Vyper Series for beginners. You will find a comprehensive overvie
 
 ## Table of Content
 ➤ [Lesson 1 - Variables & Functions](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-1-Variables-Constructors)  
-➤ [Lesson 2 - Arrays]()  
-➤ [Lesson 3 - Hashmaps]()  
-➤ [Lesson 4 - View & Pure Functions]()  
-➤ [Lesson 5 - Structs]()  
-➤ [Lesson 6 - If-Else & Assert]()  
-➤ [Lesson 7 - For Loop]()  
-➤ [Lesson 8 - Constants & Immutable]()  
+➤ [Lesson 2 - Arrays](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-2-Arrays)  
+➤ [Lesson 3 - Hashmaps](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-3-Hashmaps)  
+➤ [Lesson 4 - View & Pure Functions](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-4-View-Pure-Functions)  
+➤ [Lesson 5 - Structs](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-5-Structs)  
+➤ [Lesson 6 - If-Else & Assert](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-6-If-Else-Assert)  
+➤ [Lesson 7 - For Loop](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-7-For-Loop)  
+➤ [Lesson 8 - Constants & Immutable](https://github.com/razacodespython/Vyper-For-Beginners/tree/main/Lesson-8-Constant-Immutable)  
