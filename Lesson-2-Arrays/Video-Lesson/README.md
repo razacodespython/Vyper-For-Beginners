@@ -26,17 +26,3 @@ When running the command you need to enter the name of the contract. Make sure i
 ```bash
 ape run scripts/deploy.py --network http://localhost:8545
 ```
-
-Grab the contract address and paste it in the `.env`
-Grab your private keys from the anvil terminal and paste it in the .env too.
-
-Go to the folder `pyremix` and run the following command
-```bash
-python run_setup.py
-```
-
-To run streamlit app 
-
-```bash
-streamlit run streamlit_app.py
-```
