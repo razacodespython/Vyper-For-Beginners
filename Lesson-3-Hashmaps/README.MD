@@ -1,1 +1,3 @@
-Lesson 3
+# Lesson 3 Hashmaps
+
+![arrays](arrays.png)

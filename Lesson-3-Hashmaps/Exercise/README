@@ -1,0 +1,38 @@
+
+### Exercise 1: Add a Day and Value to the Week
+```vyper
+# Vyper Contract Exercise: Add a Day and Value to the Week
+# 1. Use the 'add_days' function.
+# 2. Pass a day of the week as the first argument (e.g., "Monday").
+# 3. Specify a numeric value associated with this day as the second argument (e.g., 100).
+```
+
+### Exercise 2: Add Balance for the Current User
+```vyper
+# Vyper Contract Exercise: Add Balance for the Current User
+# 1. Use the 'add_balance' function.
+# 2. Pass a numeric amount as the argument to represent the balance to add (e.g., 500).
+```
+
+### Exercise 3: Add Balance for a Custom Wallet Address
+```vyper
+# Vyper Contract Exercise: Add Balance for a Custom Wallet Address
+# 1. Use the 'add_balance_custom' function.
+# 2. Pass a wallet address as the first argument (e.g., 0x123...abc).
+# 3. Specify a numeric amount as the second argument for the balance to add (e.g., 300).
+```
+
+### Exercise 4: Update a Specific Day in the Week
+```vyper
+# Vyper Contract Exercise: Update a Specific Day in the Week
+# 1. Use the 'add_days' function again.
+# 2. Choose a day already added, e.g., "Monday".
+# 3. Update the value associated with this day by passing a new number as the second argument (e.g., 200).
+```
+
+### Exercise 5: Reset the Balance of the Current User
+```vyper
+# Vyper Contract Exercise: Reset the Balance of the Current User
+# 1. Use the 'add_balance' function to set the balance.
+# 2. Pass a value of 0 as the argument to reset the balance for the current user.
+```
